@@ -1,0 +1,35 @@
+.oswald-400 {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.bbh-sans-hegarty-regular {
+  font-family: "BBH Sans Hegarty", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.headerBackgroundClassName {
+  background-color: orange;
+  padding: 1rem 3rem;
+}
+
+.footerClassName {
+  text-align: center;
+  color: gray;
+  padding: 10px;
+  font-size: 14px;
+  margin-top: auto;
+}
+
+.classForNoteDivs {
+  padding: 1rem;
+  margin: 1rem;
+  display: inline-block;
+  align-items: left;
+  background-color: #F4E9D7;
+  border-radius: 1rem;
+}
