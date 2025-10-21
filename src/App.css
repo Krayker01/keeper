@@ -31,5 +31,6 @@
   display: inline-block;
   align-items: left;
   background-color: #F4E9D7;
-  border-radius: 1rem;
+  border-radius: 0.5rem;
+  max-width: 25em;
 }
